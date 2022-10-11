@@ -4,15 +4,10 @@
 Requisistos:
 
 Java 8
-
 Srping boot
-
 IDE (Sts)
-
 Maven
-
 PostgreSql
-
 Postman
 
 
