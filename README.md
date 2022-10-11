@@ -4,20 +4,30 @@
 Requisistos:
 
 Java 8
+
 Srping boot
+
 IDE (Sts)
+
 Maven
+
 PostgreSql
+
 Postman
 
 
 Instalacion:
 
 Clonar repositorio git clone https://github.com/Janel-Molina/ADN_Api.git
+
 instalar PostgreSql, crear base de datos ADN
+
 Instalar IDE(Sts)
+
 Instalar Maven
+
 Instalar Postman (prueba de servicios)
+
 Importar proyecto como proyecto maven en IDE (puerto 8080)
 
 
